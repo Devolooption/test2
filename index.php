@@ -41,7 +41,7 @@
 
         <!-- Add your site or application content here -->
         
-    	<article style="padding:25%; padding-top:3%; width:100%; height:100%; background-color:red;"><header style="margin-left:7%"><h1>Carnaval de Barranquilla</h1></header>
+    	<article style="padding:25%; padding-top:3%; width:100%; height:100%; background-color:red;"><header style="margin-left:7%"><h1>Barranquilla^s Carnival</h1></header>
     	<video width="50%" height="50%" controls>
     	  <source src="videos/carnival.mp4" type="video/mp4">
     	  <source src="videos/carnival.webm" type="video/webm">
